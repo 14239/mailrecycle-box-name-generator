@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    font-family: Consolas, "Courier New", monospace;
+}
+
+input {
+    font-family: Consolas, "Courier New", monospace;
+}
+
+.autocomplete-suggestions {
+    border: 1px solid #e0e0e0;
+    max-height: 150px;
+    overflow-y: auto;
+}
+
+.autocomplete-suggestion {
+    padding: 10px;
+    cursor: pointer;
+    font-family: Consolas, "Courier New", monospace;
+}
+
+.autocomplete-suggestion:hover {
+    background-color: #f0f0f0;
+}
+
+#result {
+    margin-top: 20px;
+    font-family: Consolas, "Courier New", monospace;
+    white-space: pre-wrap; /* Preserve whitespace for multiline content */
+}

@@ -1,0 +1,2252 @@
+[
+    {
+        "id": "000",
+        "hex": "0x0000",
+        "bag": "None",
+        "name": "Nothing"
+    },
+    {
+        "id": "001",
+        "hex": "0x0001",
+        "bag": "Master Ball",
+        "name": "Master Ball"
+    },
+    {
+        "id": "002",
+        "hex": "0x0002",
+        "bag": "Ultra Ball",
+        "name": "Ultra Ball"
+    },
+    {
+        "id": "003",
+        "hex": "0x0003",
+        "bag": "Great Ball",
+        "name": "Great Ball"
+    },
+    {
+        "id": "004",
+        "hex": "0x0004",
+        "bag": "Pok\u00e9 Ball",
+        "name": "Pok\u00e9 Ball"
+    },
+    {
+        "id": "005",
+        "hex": "0x0005",
+        "bag": "Safari Ball",
+        "name": "Safari Ball"
+    },
+    {
+        "id": "006",
+        "hex": "0x0006",
+        "bag": "Net Ball",
+        "name": "Net Ball"
+    },
+    {
+        "id": "007",
+        "hex": "0x0007",
+        "bag": "Dive Ball",
+        "name": "Dive Ball"
+    },
+    {
+        "id": "008",
+        "hex": "0x0008",
+        "bag": "Nest Ball",
+        "name": "Nest Ball"
+    },
+    {
+        "id": "009",
+        "hex": "0x0009",
+        "bag": "Repeat Ball",
+        "name": "Repeat Ball"
+    },
+    {
+        "id": "010",
+        "hex": "0x000A",
+        "bag": "Timer Ball",
+        "name": "Timer Ball"
+    },
+    {
+        "id": "011",
+        "hex": "0x000B",
+        "bag": "Luxury Ball",
+        "name": "Luxury Ball"
+    },
+    {
+        "id": "012",
+        "hex": "0x000C",
+        "bag": "Premier Ball",
+        "name": "Premier Ball"
+    },
+    {
+        "id": "013",
+        "hex": "0x000D",
+        "bag": "Potion",
+        "name": "Potion"
+    },
+    {
+        "id": "014",
+        "hex": "0x000E",
+        "bag": "Antidote",
+        "name": "Antidote"
+    },
+    {
+        "id": "015",
+        "hex": "0x000F",
+        "bag": "Burn Heal",
+        "name": "Burn Heal"
+    },
+    {
+        "id": "016",
+        "hex": "0x0010",
+        "bag": "Ice Heal",
+        "name": "Ice Heal"
+    },
+    {
+        "id": "017",
+        "hex": "0x0011",
+        "bag": "Awakening",
+        "name": "Awakening"
+    },
+    {
+        "id": "018",
+        "hex": "0x0012",
+        "bag": "Paralyze Heal",
+        "name": "Parlyz Heal"
+    },
+    {
+        "id": "019",
+        "hex": "0x0013",
+        "bag": "Full Restore",
+        "name": "Full Restore"
+    },
+    {
+        "id": "020",
+        "hex": "0x0014",
+        "bag": "Max Potion",
+        "name": "Max Potion"
+    },
+    {
+        "id": "021",
+        "hex": "0x0015",
+        "bag": "Hyper Potion",
+        "name": "Hyper Potion"
+    },
+    {
+        "id": "022",
+        "hex": "0x0016",
+        "bag": "Super Potion",
+        "name": "Super Potion"
+    },
+    {
+        "id": "023",
+        "hex": "0x0017",
+        "bag": "Full Heal",
+        "name": "Full Heal"
+    },
+    {
+        "id": "024",
+        "hex": "0x0018",
+        "bag": "Revive",
+        "name": "Revive"
+    },
+    {
+        "id": "025",
+        "hex": "0x0019",
+        "bag": "Max Revive",
+        "name": "Max Revive"
+    },
+    {
+        "id": "026",
+        "hex": "0x001A",
+        "bag": "Fresh Water",
+        "name": "Fresh Water"
+    },
+    {
+        "id": "027",
+        "hex": "0x001B",
+        "bag": "Soda Pop",
+        "name": "Soda Pop"
+    },
+    {
+        "id": "028",
+        "hex": "0x001C",
+        "bag": "Lemonade",
+        "name": "Lemonade"
+    },
+    {
+        "id": "029",
+        "hex": "0x001D",
+        "bag": "Moomoo Milk III",
+        "name": "Moomoo Milk"
+    },
+    {
+        "id": "030",
+        "hex": "0x001E",
+        "bag": "Energy Powder",
+        "name": "EnergyPowder"
+    },
+    {
+        "id": "031",
+        "hex": "0x001F",
+        "bag": "Energy Root",
+        "name": "Energy Root"
+    },
+    {
+        "id": "032",
+        "hex": "0x0020",
+        "bag": "Heal Powder",
+        "name": "Heal Powder"
+    },
+    {
+        "id": "033",
+        "hex": "0x0021",
+        "bag": "Revival Herb",
+        "name": "Revival Herb"
+    },
+    {
+        "id": "034",
+        "hex": "0x0022",
+        "bag": "Ether",
+        "name": "Ether"
+    },
+    {
+        "id": "035",
+        "hex": "0x0023",
+        "bag": "Max Ether",
+        "name": "Max Ether"
+    },
+    {
+        "id": "036",
+        "hex": "0x0024",
+        "bag": "Elixir",
+        "name": "Elixir"
+    },
+    {
+        "id": "037",
+        "hex": "0x0025",
+        "bag": "Max Elixir",
+        "name": "Max Elixir"
+    },
+    {
+        "id": "038",
+        "hex": "0x0026",
+        "bag": "Lava Cookie",
+        "name": "Lava Cookie"
+    },
+    {
+        "id": "039",
+        "hex": "0x0027",
+        "bag": "Blue Flute",
+        "name": "Blue Flute"
+    },
+    {
+        "id": "040",
+        "hex": "0x0028",
+        "bag": "Yellow Flute",
+        "name": "Yellow Flute"
+    },
+    {
+        "id": "041",
+        "hex": "0x0029",
+        "bag": "Red Flute",
+        "name": "Red Flute"
+    },
+    {
+        "id": "042",
+        "hex": "0x002A",
+        "bag": "Black Flute",
+        "name": "Black Flute"
+    },
+    {
+        "id": "043",
+        "hex": "0x002B",
+        "bag": "White Flute",
+        "name": "White Flute"
+    },
+    {
+        "id": "044",
+        "hex": "0x002C",
+        "bag": "Berry Juice",
+        "name": "Berry Juice"
+    },
+    {
+        "id": "045",
+        "hex": "0x002D",
+        "bag": "Sacred Ash",
+        "name": "Sacred Ash"
+    },
+    {
+        "id": "046",
+        "hex": "0x002E",
+        "bag": "Shoal Salt",
+        "name": "Shoal Salt"
+    },
+    {
+        "id": "047",
+        "hex": "0x002F",
+        "bag": "Shoal Shell",
+        "name": "Shoal Shell"
+    },
+    {
+        "id": "048",
+        "hex": "0x0030",
+        "bag": "Red Shard",
+        "name": "Red Shard"
+    },
+    {
+        "id": "049",
+        "hex": "0x0031",
+        "bag": "Blue Shard",
+        "name": "Blue Shard"
+    },
+    {
+        "id": "050",
+        "hex": "0x0032",
+        "bag": "Yellow Shard",
+        "name": "Yellow Shard"
+    },
+    {
+        "id": "051",
+        "hex": "0x0033",
+        "bag": "Green Shard",
+        "name": "Green Shard"
+    },
+    {
+        "id": "052",
+        "hex": "0x0034",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "053",
+        "hex": "0x0035",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "054",
+        "hex": "0x0036",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "055",
+        "hex": "0x0037",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "056",
+        "hex": "0x0038",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "057",
+        "hex": "0x0039",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "058",
+        "hex": "0x003A",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "059",
+        "hex": "0x003B",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "060",
+        "hex": "0x003C",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "061",
+        "hex": "0x003D",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "062",
+        "hex": "0x003E",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "063",
+        "hex": "0x003F",
+        "bag": "HP Up",
+        "name": "HP Up"
+    },
+    {
+        "id": "064",
+        "hex": "0x0040",
+        "bag": "Protein",
+        "name": "Protein"
+    },
+    {
+        "id": "065",
+        "hex": "0x0041",
+        "bag": "Iron",
+        "name": "Iron"
+    },
+    {
+        "id": "066",
+        "hex": "0x0042",
+        "bag": "Carbos",
+        "name": "Carbos"
+    },
+    {
+        "id": "067",
+        "hex": "0x0043",
+        "bag": "Calcium",
+        "name": "Calcium"
+    },
+    {
+        "id": "068",
+        "hex": "0x0044",
+        "bag": "Rare Candy",
+        "name": "Rare Candy"
+    },
+    {
+        "id": "069",
+        "hex": "0x0045",
+        "bag": "PP Up",
+        "name": "PP Up"
+    },
+    {
+        "id": "070",
+        "hex": "0x0046",
+        "bag": "Zinc",
+        "name": "Zinc"
+    },
+    {
+        "id": "071",
+        "hex": "0x0047",
+        "bag": "PP Max",
+        "name": "PP Max"
+    },
+    {
+        "id": "072",
+        "hex": "0x0048",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "073",
+        "hex": "0x0049",
+        "bag": "Guard Spec.",
+        "name": "Guard Spec."
+    },
+    {
+        "id": "074",
+        "hex": "0x004A",
+        "bag": "Dire Hit",
+        "name": "Dire Hit"
+    },
+    {
+        "id": "075",
+        "hex": "0x004B",
+        "bag": "X Attack",
+        "name": "X Attack"
+    },
+    {
+        "id": "076",
+        "hex": "0x004C",
+        "bag": "X Defense",
+        "name": "X Defend"
+    },
+    {
+        "id": "077",
+        "hex": "0x004D",
+        "bag": "X Speed",
+        "name": "X Speed"
+    },
+    {
+        "id": "078",
+        "hex": "0x004E",
+        "bag": "X Accuracy",
+        "name": "X Accuracy"
+    },
+    {
+        "id": "079",
+        "hex": "0x004F",
+        "bag": "X Sp. Atk",
+        "name": "X Special"
+    },
+    {
+        "id": "080",
+        "hex": "0x0050",
+        "bag": "Pok\u00e9 Doll",
+        "name": "Pok\u00e9 Doll"
+    },
+    {
+        "id": "081",
+        "hex": "0x0051",
+        "bag": "Fluffy Tail",
+        "name": "Fluffy Tail"
+    },
+    {
+        "id": "082",
+        "hex": "0x0052",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "083",
+        "hex": "0x0053",
+        "bag": "Super Repel",
+        "name": "Super Repel"
+    },
+    {
+        "id": "084",
+        "hex": "0x0054",
+        "bag": "Max Repel",
+        "name": "Max Repel"
+    },
+    {
+        "id": "085",
+        "hex": "0x0055",
+        "bag": "Escape Rope",
+        "name": "Escape Rope"
+    },
+    {
+        "id": "086",
+        "hex": "0x0056",
+        "bag": "Repel",
+        "name": "Repel"
+    },
+    {
+        "id": "087",
+        "hex": "0x0057",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "088",
+        "hex": "0x0058",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "089",
+        "hex": "0x0059",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "090",
+        "hex": "0x005A",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "091",
+        "hex": "0x005B",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "092",
+        "hex": "0x005C",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "093",
+        "hex": "0x005D",
+        "bag": "Sun Stone",
+        "name": "Sun Stone"
+    },
+    {
+        "id": "094",
+        "hex": "0x005E",
+        "bag": "Moon Stone",
+        "name": "Moon Stone"
+    },
+    {
+        "id": "095",
+        "hex": "0x005F",
+        "bag": "Fire Stone",
+        "name": "Fire Stone"
+    },
+    {
+        "id": "096",
+        "hex": "0x0060",
+        "bag": "Thunder Stone",
+        "name": "Thunderstone"
+    },
+    {
+        "id": "097",
+        "hex": "0x0061",
+        "bag": "Water Stone",
+        "name": "Water Stone"
+    },
+    {
+        "id": "098",
+        "hex": "0x0062",
+        "bag": "Leaf Stone",
+        "name": "Leaf Stone"
+    },
+    {
+        "id": "099",
+        "hex": "0x0063",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "100",
+        "hex": "0x0064",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "101",
+        "hex": "0x0065",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "102",
+        "hex": "0x0066",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "103",
+        "hex": "0x0067",
+        "bag": "Tiny Mushroom",
+        "name": "TinyMushroom"
+    },
+    {
+        "id": "104",
+        "hex": "0x0068",
+        "bag": "Big Mushroom",
+        "name": "Big Mushroom"
+    },
+    {
+        "id": "105",
+        "hex": "0x0069",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "106",
+        "hex": "0x006A",
+        "bag": "Pearl",
+        "name": "Pearl"
+    },
+    {
+        "id": "107",
+        "hex": "0x006B",
+        "bag": "Big Pearl",
+        "name": "Big Pearl"
+    },
+    {
+        "id": "108",
+        "hex": "0x006C",
+        "bag": "Stardust",
+        "name": "Stardust"
+    },
+    {
+        "id": "109",
+        "hex": "0x006D",
+        "bag": "Star Piece",
+        "name": "Star Piece"
+    },
+    {
+        "id": "110",
+        "hex": "0x006E",
+        "bag": "Nugget",
+        "name": "Nugget"
+    },
+    {
+        "id": "111",
+        "hex": "0x006F",
+        "bag": "Heart Scale",
+        "name": "Heart Scale"
+    },
+    {
+        "id": "112",
+        "hex": "0x0070",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "113",
+        "hex": "0x0071",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "114",
+        "hex": "0x0072",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "115",
+        "hex": "0x0073",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "116",
+        "hex": "0x0074",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "117",
+        "hex": "0x0075",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "118",
+        "hex": "0x0076",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "119",
+        "hex": "0x0077",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "120",
+        "hex": "0x0078",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "121",
+        "hex": "0x0079",
+        "bag": "Orange Mail",
+        "name": "Orange Mail"
+    },
+    {
+        "id": "122",
+        "hex": "0x007A",
+        "bag": "Harbor Mail",
+        "name": "Harbor Mail"
+    },
+    {
+        "id": "123",
+        "hex": "0x007B",
+        "bag": "Glitter Mail",
+        "name": "Glitter Mail"
+    },
+    {
+        "id": "124",
+        "hex": "0x007C",
+        "bag": "Mech Mail",
+        "name": "Mech Mail"
+    },
+    {
+        "id": "125",
+        "hex": "0x007D",
+        "bag": "Wood Mail",
+        "name": "Wood Mail"
+    },
+    {
+        "id": "126",
+        "hex": "0x007E",
+        "bag": "Wave Mail",
+        "name": "Wave Mail"
+    },
+    {
+        "id": "127",
+        "hex": "0x007F",
+        "bag": "Bead Mail",
+        "name": "Bead Mail"
+    },
+    {
+        "id": "128",
+        "hex": "0x0080",
+        "bag": "Shadow Mail",
+        "name": "Shadow Mail"
+    },
+    {
+        "id": "129",
+        "hex": "0x0081",
+        "bag": "Tropic Mail",
+        "name": "Tropic Mail"
+    },
+    {
+        "id": "130",
+        "hex": "0x0082",
+        "bag": "Dream Mail",
+        "name": "Dream Mail"
+    },
+    {
+        "id": "131",
+        "hex": "0x0083",
+        "bag": "Fab Mail",
+        "name": "Fab Mail"
+    },
+    {
+        "id": "132",
+        "hex": "0x0084",
+        "bag": "Retro Mail",
+        "name": "Retro Mail"
+    },
+    {
+        "id": "133",
+        "hex": "0x0085",
+        "bag": "Cheri Berry",
+        "name": "Cheri Berry"
+    },
+    {
+        "id": "134",
+        "hex": "0x0086",
+        "bag": "Chesto Berry",
+        "name": "Chesto Berry"
+    },
+    {
+        "id": "135",
+        "hex": "0x0087",
+        "bag": "Pecha Berry",
+        "name": "Pecha Berry"
+    },
+    {
+        "id": "136",
+        "hex": "0x0088",
+        "bag": "Rawst Berry",
+        "name": "Rawst Berry"
+    },
+    {
+        "id": "137",
+        "hex": "0x0089",
+        "bag": "Aspear Berry",
+        "name": "Aspear Berry"
+    },
+    {
+        "id": "138",
+        "hex": "0x008A",
+        "bag": "Leppa Berry",
+        "name": "Leppa Berry"
+    },
+    {
+        "id": "139",
+        "hex": "0x008B",
+        "bag": "Oran Berry",
+        "name": "Oran Berry"
+    },
+    {
+        "id": "140",
+        "hex": "0x008C",
+        "bag": "Persim Berry",
+        "name": "Persim Berry"
+    },
+    {
+        "id": "141",
+        "hex": "0x008D",
+        "bag": "Lum Berry",
+        "name": "Lum Berry"
+    },
+    {
+        "id": "142",
+        "hex": "0x008E",
+        "bag": "Sitrus Berry",
+        "name": "Sitrus Berry"
+    },
+    {
+        "id": "143",
+        "hex": "0x008F",
+        "bag": "Figy Berry",
+        "name": "Figy Berry"
+    },
+    {
+        "id": "144",
+        "hex": "0x0090",
+        "bag": "Wiki Berry",
+        "name": "Wiki Berry"
+    },
+    {
+        "id": "145",
+        "hex": "0x0091",
+        "bag": "Mago Berry",
+        "name": "Mago Berry"
+    },
+    {
+        "id": "146",
+        "hex": "0x0092",
+        "bag": "Aguav Berry",
+        "name": "Aguav Berry"
+    },
+    {
+        "id": "147",
+        "hex": "0x0093",
+        "bag": "Iapapa Berry",
+        "name": "Iapapa Berry"
+    },
+    {
+        "id": "148",
+        "hex": "0x0094",
+        "bag": "Razz Berry III",
+        "name": "Razz Berry"
+    },
+    {
+        "id": "149",
+        "hex": "0x0095",
+        "bag": "Bluk Berry",
+        "name": "Bluk Berry"
+    },
+    {
+        "id": "150",
+        "hex": "0x0096",
+        "bag": "Nanab Berry III",
+        "name": "Nanab Berry"
+    },
+    {
+        "id": "151",
+        "hex": "0x0097",
+        "bag": "Wepear Berry",
+        "name": "Wepear Berry"
+    },
+    {
+        "id": "152",
+        "hex": "0x0098",
+        "bag": "Pinap Berry",
+        "name": "Pinap Berry"
+    },
+    {
+        "id": "153",
+        "hex": "0x0099",
+        "bag": "Pomeg Berry",
+        "name": "Pomeg Berry"
+    },
+    {
+        "id": "154",
+        "hex": "0x009A",
+        "bag": "Kelpsy Berry",
+        "name": "Kelpsy Berry"
+    },
+    {
+        "id": "155",
+        "hex": "0x009B",
+        "bag": "Qualot Berry",
+        "name": "Qualot Berry"
+    },
+    {
+        "id": "156",
+        "hex": "0x009C",
+        "bag": "Hondew Berry",
+        "name": "Hondew Berry"
+    },
+    {
+        "id": "157",
+        "hex": "0x009D",
+        "bag": "Grepa Berry",
+        "name": "Grepa Berry"
+    },
+    {
+        "id": "158",
+        "hex": "0x009E",
+        "bag": "Tamato Berry",
+        "name": "Tamato Berry"
+    },
+    {
+        "id": "159",
+        "hex": "0x009F",
+        "bag": "Cornn Berry",
+        "name": "Cornn Berry"
+    },
+    {
+        "id": "160",
+        "hex": "0x00A0",
+        "bag": "Magost Berry",
+        "name": "Magost Berry"
+    },
+    {
+        "id": "161",
+        "hex": "0x00A1",
+        "bag": "Rabuta Berry",
+        "name": "Rabuta Berry"
+    },
+    {
+        "id": "162",
+        "hex": "0x00A2",
+        "bag": "Nomel Berry",
+        "name": "Nomel Berry"
+    },
+    {
+        "id": "163",
+        "hex": "0x00A3",
+        "bag": "Spelon Berry",
+        "name": "Spelon Berry"
+    },
+    {
+        "id": "164",
+        "hex": "0x00A4",
+        "bag": "Pamtre Berry",
+        "name": "Pamtre Berry"
+    },
+    {
+        "id": "165",
+        "hex": "0x00A5",
+        "bag": "Watmel Berry",
+        "name": "Watmel Berry"
+    },
+    {
+        "id": "166",
+        "hex": "0x00A6",
+        "bag": "Durin Berry",
+        "name": "Durin Berry"
+    },
+    {
+        "id": "167",
+        "hex": "0x00A7",
+        "bag": "Belue Berry",
+        "name": "Belue Berry"
+    },
+    {
+        "id": "168",
+        "hex": "0x00A8",
+        "bag": "Liechi Berry",
+        "name": "Liechi Berry"
+    },
+    {
+        "id": "169",
+        "hex": "0x00A9",
+        "bag": "Ganlon Berry",
+        "name": "Ganlon Berry"
+    },
+    {
+        "id": "170",
+        "hex": "0x00AA",
+        "bag": "Salac Berry",
+        "name": "Salac Berry"
+    },
+    {
+        "id": "171",
+        "hex": "0x00AB",
+        "bag": "Petaya Berry",
+        "name": "Petaya Berry"
+    },
+    {
+        "id": "172",
+        "hex": "0x00AC",
+        "bag": "Apicot Berry",
+        "name": "Apicot Berry"
+    },
+    {
+        "id": "173",
+        "hex": "0x00AD",
+        "bag": "Lansat Berry",
+        "name": "Lansat Berry"
+    },
+    {
+        "id": "174",
+        "hex": "0x00AE",
+        "bag": "Starf Berry",
+        "name": "Starf Berry"
+    },
+    {
+        "id": "175",
+        "hex": "0x00AF",
+        "bag": "Enigma Berry",
+        "name": "Enigma Berry"
+    },
+    {
+        "id": "176",
+        "hex": "0x00B0",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "177",
+        "hex": "0x00B1",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "178",
+        "hex": "0x00B2",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "179",
+        "hex": "0x00B3",
+        "bag": "Bright Powder",
+        "name": "BrightPowder"
+    },
+    {
+        "id": "180",
+        "hex": "0x00B4",
+        "bag": "White Herb",
+        "name": "White Herb"
+    },
+    {
+        "id": "181",
+        "hex": "0x00B5",
+        "bag": "Macho Brace",
+        "name": "Macho Brace"
+    },
+    {
+        "id": "182",
+        "hex": "0x00B6",
+        "bag": "Exp. Share",
+        "name": "Exp. Share"
+    },
+    {
+        "id": "183",
+        "hex": "0x00B7",
+        "bag": "Quick Claw",
+        "name": "Quick Claw"
+    },
+    {
+        "id": "184",
+        "hex": "0x00B8",
+        "bag": "Soothe Bell",
+        "name": "Soothe Bell"
+    },
+    {
+        "id": "185",
+        "hex": "0x00B9",
+        "bag": "Mental Herb",
+        "name": "Mental Herb"
+    },
+    {
+        "id": "186",
+        "hex": "0x00BA",
+        "bag": "Choice Band",
+        "name": "Choice Band"
+    },
+    {
+        "id": "187",
+        "hex": "0x00BB",
+        "bag": "King's Rock",
+        "name": "King's Rock"
+    },
+    {
+        "id": "188",
+        "hex": "0x00BC",
+        "bag": "SilverPowder",
+        "name": "SilverPowder"
+    },
+    {
+        "id": "189",
+        "hex": "0x00BD",
+        "bag": "Amulet Coin III",
+        "name": "Amulet Coin"
+    },
+    {
+        "id": "190",
+        "hex": "0x00BE",
+        "bag": "Cleanse Tag",
+        "name": "Cleanse Tag"
+    },
+    {
+        "id": "191",
+        "hex": "0x00BF",
+        "bag": "Soul Dew",
+        "name": "Soul Dew"
+    },
+    {
+        "id": "192",
+        "hex": "0x00C0",
+        "bag": "Deep Sea Tooth",
+        "name": "DeepSeaTooth"
+    },
+    {
+        "id": "193",
+        "hex": "0x00C1",
+        "bag": "Deep Sea Scale",
+        "name": "DeepSeaScale"
+    },
+    {
+        "id": "194",
+        "hex": "0x00C2",
+        "bag": "Smoke Ball",
+        "name": "Smoke Ball"
+    },
+    {
+        "id": "195",
+        "hex": "0x00C3",
+        "bag": "Everstone",
+        "name": "Everstone"
+    },
+    {
+        "id": "196",
+        "hex": "0x00C4",
+        "bag": "Focus Band",
+        "name": "Focus Band"
+    },
+    {
+        "id": "197",
+        "hex": "0x00C5",
+        "bag": "Lucky Egg",
+        "name": "Lucky Egg"
+    },
+    {
+        "id": "198",
+        "hex": "0x00C6",
+        "bag": "Scope Lens",
+        "name": "Scope Lens"
+    },
+    {
+        "id": "199",
+        "hex": "0x00C7",
+        "bag": "Metal Coat",
+        "name": "Metal Coat"
+    },
+    {
+        "id": "200",
+        "hex": "0x00C8",
+        "bag": "Leftovers",
+        "name": "Leftovers"
+    },
+    {
+        "id": "201",
+        "hex": "0x00C9",
+        "bag": "Dragon Scale",
+        "name": "Dragon Scale"
+    },
+    {
+        "id": "202",
+        "hex": "0x00CA",
+        "bag": "Light Ball",
+        "name": "Light Ball"
+    },
+    {
+        "id": "203",
+        "hex": "0x00CB",
+        "bag": "Soft Sand",
+        "name": "Soft Sand"
+    },
+    {
+        "id": "204",
+        "hex": "0x00CC",
+        "bag": "Hard Stone",
+        "name": "Hard Stone"
+    },
+    {
+        "id": "205",
+        "hex": "0x00CD",
+        "bag": "Miracle Seed",
+        "name": "Miracle Seed"
+    },
+    {
+        "id": "206",
+        "hex": "0x00CE",
+        "bag": "Black Glasses",
+        "name": "BlackGlasses"
+    },
+    {
+        "id": "207",
+        "hex": "0x00CF",
+        "bag": "Black Belt",
+        "name": "Black Belt"
+    },
+    {
+        "id": "208",
+        "hex": "0x00D0",
+        "bag": "Magnet",
+        "name": "Magnet"
+    },
+    {
+        "id": "209",
+        "hex": "0x00D1",
+        "bag": "Mystic Water",
+        "name": "Mystic Water"
+    },
+    {
+        "id": "210",
+        "hex": "0x00D2",
+        "bag": "Sharp Beak",
+        "name": "Sharp Beak"
+    },
+    {
+        "id": "211",
+        "hex": "0x00D3",
+        "bag": "Poison Barb",
+        "name": "Poison Barb"
+    },
+    {
+        "id": "212",
+        "hex": "0x00D4",
+        "bag": "Never-Melt Ice",
+        "name": "NeverMeltIce"
+    },
+    {
+        "id": "213",
+        "hex": "0x00D5",
+        "bag": "Spell Tag",
+        "name": "Spell Tag"
+    },
+    {
+        "id": "214",
+        "hex": "0x00D6",
+        "bag": "Twisted Spoon",
+        "name": "TwistedSpoon"
+    },
+    {
+        "id": "215",
+        "hex": "0x00D7",
+        "bag": "Charcoal",
+        "name": "Charcoal"
+    },
+    {
+        "id": "216",
+        "hex": "0x00D8",
+        "bag": "Dragon Fang",
+        "name": "Dragon Fang"
+    },
+    {
+        "id": "217",
+        "hex": "0x00D9",
+        "bag": "Silk Scarf",
+        "name": "Silk Scarf"
+    },
+    {
+        "id": "218",
+        "hex": "0x00DA",
+        "bag": "Up-Grade",
+        "name": "Up-Grade"
+    },
+    {
+        "id": "219",
+        "hex": "0x00DB",
+        "bag": "Shell Bell",
+        "name": "Shell Bell"
+    },
+    {
+        "id": "220",
+        "hex": "0x00DC",
+        "bag": "Sea Incense",
+        "name": "Sea Incense"
+    },
+    {
+        "id": "221",
+        "hex": "0x00DD",
+        "bag": "Lax Incense",
+        "name": "Lax Incense"
+    },
+    {
+        "id": "222",
+        "hex": "0x00DE",
+        "bag": "Lucky Punch",
+        "name": "Lucky Punch"
+    },
+    {
+        "id": "223",
+        "hex": "0x00DF",
+        "bag": "Metal Powder",
+        "name": "Metal Powder"
+    },
+    {
+        "id": "224",
+        "hex": "0x00E0",
+        "bag": "Thick Club",
+        "name": "Thick Club"
+    },
+    {
+        "id": "225",
+        "hex": "0x00E1",
+        "bag": "Stick",
+        "name": "Stick"
+    },
+    {
+        "id": "226",
+        "hex": "0x00E2",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "227",
+        "hex": "0x00E3",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "228",
+        "hex": "0x00E4",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "229",
+        "hex": "0x00E5",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "230",
+        "hex": "0x00E6",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "231",
+        "hex": "0x00E7",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "232",
+        "hex": "0x00E8",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "233",
+        "hex": "0x00E9",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "234",
+        "hex": "0x00EA",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "235",
+        "hex": "0x00EB",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "236",
+        "hex": "0x00EC",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "237",
+        "hex": "0x00ED",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "238",
+        "hex": "0x00EE",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "239",
+        "hex": "0x00EF",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "240",
+        "hex": "0x00F0",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "241",
+        "hex": "0x00F1",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "242",
+        "hex": "0x00F2",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "243",
+        "hex": "0x00F3",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "244",
+        "hex": "0x00F4",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "245",
+        "hex": "0x00F5",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "246",
+        "hex": "0x00F6",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "247",
+        "hex": "0x00F7",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "248",
+        "hex": "0x00F8",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "249",
+        "hex": "0x00F9",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "250",
+        "hex": "0x00FA",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "251",
+        "hex": "0x00FB",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "252",
+        "hex": "0x00FC",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "253",
+        "hex": "0x00FD",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "254",
+        "hex": "0x00FE",
+        "bag": "Red Scarf",
+        "name": "Red Scarf"
+    },
+    {
+        "id": "255",
+        "hex": "0x00FF",
+        "bag": "Blue Scarf",
+        "name": "Blue Scarf"
+    },
+    {
+        "id": "256",
+        "hex": "0x0100",
+        "bag": "Pink Scarf",
+        "name": "Pink Scarf"
+    },
+    {
+        "id": "257",
+        "hex": "0x0101",
+        "bag": "Green Scarf",
+        "name": "Green Scarf"
+    },
+    {
+        "id": "258",
+        "hex": "0x0102",
+        "bag": "Yellow Scarf",
+        "name": "Yellow Scarf"
+    },
+    {
+        "id": "259",
+        "hex": "0x0103",
+        "bag": "Mach Bike III",
+        "name": "Mach Bike"
+    },
+    {
+        "id": "260",
+        "hex": "0x0104",
+        "bag": "Coin Case",
+        "name": "Coin Case"
+    },
+    {
+        "id": "261",
+        "hex": "0x0105",
+        "bag": "Itemfinder",
+        "name": "Itemfinder"
+    },
+    {
+        "id": "262",
+        "hex": "0x0106",
+        "bag": "Old Rod III",
+        "name": "Old Rod"
+    },
+    {
+        "id": "263",
+        "hex": "0x0107",
+        "bag": "Good Rod III",
+        "name": "Good Rod"
+    },
+    {
+        "id": "264",
+        "hex": "0x0108",
+        "bag": "Super Rod III",
+        "name": "Super Rod"
+    },
+    {
+        "id": "265",
+        "hex": "0x0109",
+        "bag": "S.S. Ticket",
+        "name": "S.S. Ticket"
+    },
+    {
+        "id": "266",
+        "hex": "0x010A",
+        "bag": "Contest Pass",
+        "name": "Contest Pass"
+    },
+    {
+        "id": "267",
+        "hex": "0x010B",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "268",
+        "hex": "0x010C",
+        "bag": "Wailmer Pail",
+        "name": "Wailmer Pail"
+    },
+    {
+        "id": "269",
+        "hex": "0x010D",
+        "bag": "Devon Parts",
+        "name": "Devon Goods"
+    },
+    {
+        "id": "270",
+        "hex": "0x010E",
+        "bag": "Soot Sack",
+        "name": "Soot Sack"
+    },
+    {
+        "id": "271",
+        "hex": "0x010F",
+        "bag": "Basement Key III",
+        "name": "Basement Key"
+    },
+    {
+        "id": "272",
+        "hex": "0x0110",
+        "bag": "Acro Bike III",
+        "name": "Acro Bike"
+    },
+    {
+        "id": "273",
+        "hex": "0x0111",
+        "bag": "Pok\u00e9block Case",
+        "name": "Pok\u00e9block Case"
+    },
+    {
+        "id": "274",
+        "hex": "0x0112",
+        "bag": "Letter",
+        "name": "Letter"
+    },
+    {
+        "id": "275",
+        "hex": "0x0113",
+        "bag": "Eon Ticket",
+        "name": "Eon Ticket"
+    },
+    {
+        "id": "276",
+        "hex": "0x0114",
+        "bag": "Red Orb III",
+        "name": "Red Orb"
+    },
+    {
+        "id": "277",
+        "hex": "0x0115",
+        "bag": "Blue Orb III",
+        "name": "Blue Orb"
+    },
+    {
+        "id": "278",
+        "hex": "0x0116",
+        "bag": "Scanner",
+        "name": "Scanner"
+    },
+    {
+        "id": "279",
+        "hex": "0x0117",
+        "bag": "Go-Goggles III",
+        "name": "Go-Goggles"
+    },
+    {
+        "id": "280",
+        "hex": "0x0118",
+        "bag": "Meteorite",
+        "name": "Meteorite"
+    },
+    {
+        "id": "281",
+        "hex": "0x0119",
+        "bag": "Key to Room 1",
+        "name": "Rm. 1 Key"
+    },
+    {
+        "id": "282",
+        "hex": "0x011A",
+        "bag": "Key to Room 2",
+        "name": "Rm. 2 Key"
+    },
+    {
+        "id": "283",
+        "hex": "0x011B",
+        "bag": "Key to Room 4",
+        "name": "Rm. 4 Key"
+    },
+    {
+        "id": "284",
+        "hex": "0x011C",
+        "bag": "Key to Room 6",
+        "name": "Rm. 6 Key"
+    },
+    {
+        "id": "285",
+        "hex": "0x011D",
+        "bag": "Storage Key III",
+        "name": "Storage Key"
+    },
+    {
+        "id": "286",
+        "hex": "0x011E",
+        "bag": "Root Fossil",
+        "name": "Root Fossil"
+    },
+    {
+        "id": "287",
+        "hex": "0x011F",
+        "bag": "Claw Fossil",
+        "name": "Claw Fossil"
+    },
+    {
+        "id": "288",
+        "hex": "0x0120",
+        "bag": "Devon Scope III",
+        "name": "Devon Scope"
+    },
+    {
+        "id": "289",
+        "hex": "0x0121",
+        "bag": "TM Fighting",
+        "name": "TM01"
+    },
+    {
+        "id": "290",
+        "hex": "0x0122",
+        "bag": "TM Dragon",
+        "name": "TM02"
+    },
+    {
+        "id": "291",
+        "hex": "0x0123",
+        "bag": "TM Water",
+        "name": "TM03"
+    },
+    {
+        "id": "292",
+        "hex": "0x0124",
+        "bag": "TM Psychic",
+        "name": "TM04"
+    },
+    {
+        "id": "293",
+        "hex": "0x0125",
+        "bag": "TM Normal",
+        "name": "TM05"
+    },
+    {
+        "id": "294",
+        "hex": "0x0126",
+        "bag": "TM Poison",
+        "name": "TM06"
+    },
+    {
+        "id": "295",
+        "hex": "0x0127",
+        "bag": "TM Ice",
+        "name": "TM07"
+    },
+    {
+        "id": "296",
+        "hex": "0x0128",
+        "bag": "TM Fighting",
+        "name": "TM08"
+    },
+    {
+        "id": "297",
+        "hex": "0x0129",
+        "bag": "TM Grass",
+        "name": "TM09"
+    },
+    {
+        "id": "298",
+        "hex": "0x012A",
+        "bag": "TM Normal",
+        "name": "TM10"
+    },
+    {
+        "id": "299",
+        "hex": "0x012B",
+        "bag": "TM Fire",
+        "name": "TM11"
+    },
+    {
+        "id": "300",
+        "hex": "0x012C",
+        "bag": "TM Dark",
+        "name": "TM12"
+    },
+    {
+        "id": "301",
+        "hex": "0x012D",
+        "bag": "TM Ice",
+        "name": "TM13"
+    },
+    {
+        "id": "302",
+        "hex": "0x012E",
+        "bag": "TM Ice",
+        "name": "TM14"
+    },
+    {
+        "id": "303",
+        "hex": "0x012F",
+        "bag": "TM Normal",
+        "name": "TM15"
+    },
+    {
+        "id": "304",
+        "hex": "0x0130",
+        "bag": "TM Psychic",
+        "name": "TM16"
+    },
+    {
+        "id": "305",
+        "hex": "0x0131",
+        "bag": "TM Normal",
+        "name": "TM17"
+    },
+    {
+        "id": "306",
+        "hex": "0x0132",
+        "bag": "TM Water",
+        "name": "TM18"
+    },
+    {
+        "id": "307",
+        "hex": "0x0133",
+        "bag": "TM Grass",
+        "name": "TM19"
+    },
+    {
+        "id": "308",
+        "hex": "0x0134",
+        "bag": "TM Normal",
+        "name": "TM20"
+    },
+    {
+        "id": "309",
+        "hex": "0x0135",
+        "bag": "TM Normal",
+        "name": "TM21"
+    },
+    {
+        "id": "310",
+        "hex": "0x0136",
+        "bag": "TM Grass",
+        "name": "TM22"
+    },
+    {
+        "id": "311",
+        "hex": "0x0137",
+        "bag": "TM Steel",
+        "name": "TM23"
+    },
+    {
+        "id": "312",
+        "hex": "0x0138",
+        "bag": "TM Electric",
+        "name": "TM24"
+    },
+    {
+        "id": "313",
+        "hex": "0x0139",
+        "bag": "TM Electric",
+        "name": "TM25"
+    },
+    {
+        "id": "314",
+        "hex": "0x013A",
+        "bag": "TM Ground",
+        "name": "TM26"
+    },
+    {
+        "id": "315",
+        "hex": "0x013B",
+        "bag": "TM Normal",
+        "name": "TM27"
+    },
+    {
+        "id": "316",
+        "hex": "0x013C",
+        "bag": "TM Ground",
+        "name": "TM28"
+    },
+    {
+        "id": "317",
+        "hex": "0x013D",
+        "bag": "TM Psychic",
+        "name": "TM29"
+    },
+    {
+        "id": "318",
+        "hex": "0x013E",
+        "bag": "TM Ghost",
+        "name": "TM30"
+    },
+    {
+        "id": "319",
+        "hex": "0x013F",
+        "bag": "TM Fighting",
+        "name": "TM31"
+    },
+    {
+        "id": "320",
+        "hex": "0x0140",
+        "bag": "TM Normal",
+        "name": "TM32"
+    },
+    {
+        "id": "321",
+        "hex": "0x0141",
+        "bag": "TM Psychic",
+        "name": "TM33"
+    },
+    {
+        "id": "322",
+        "hex": "0x0142",
+        "bag": "TM Electric",
+        "name": "TM34"
+    },
+    {
+        "id": "323",
+        "hex": "0x0143",
+        "bag": "TM Fire",
+        "name": "TM35"
+    },
+    {
+        "id": "324",
+        "hex": "0x0144",
+        "bag": "TM Poison",
+        "name": "TM36"
+    },
+    {
+        "id": "325",
+        "hex": "0x0145",
+        "bag": "TM Rock",
+        "name": "TM37"
+    },
+    {
+        "id": "326",
+        "hex": "0x0146",
+        "bag": "TM Fire",
+        "name": "TM38"
+    },
+    {
+        "id": "327",
+        "hex": "0x0147",
+        "bag": "TM Rock",
+        "name": "TM39"
+    },
+    {
+        "id": "328",
+        "hex": "0x0148",
+        "bag": "TM Flying",
+        "name": "TM40"
+    },
+    {
+        "id": "329",
+        "hex": "0x0149",
+        "bag": "TM Dark",
+        "name": "TM41"
+    },
+    {
+        "id": "330",
+        "hex": "0x014A",
+        "bag": "TM Normal",
+        "name": "TM42"
+    },
+    {
+        "id": "331",
+        "hex": "0x014B",
+        "bag": "TM Normal",
+        "name": "TM43"
+    },
+    {
+        "id": "332",
+        "hex": "0x014C",
+        "bag": "TM Psychic",
+        "name": "TM44"
+    },
+    {
+        "id": "333",
+        "hex": "0x014D",
+        "bag": "TM Normal",
+        "name": "TM45"
+    },
+    {
+        "id": "334",
+        "hex": "0x014E",
+        "bag": "TM Dark",
+        "name": "TM46"
+    },
+    {
+        "id": "335",
+        "hex": "0x014F",
+        "bag": "TM Steel",
+        "name": "TM47"
+    },
+    {
+        "id": "336",
+        "hex": "0x0150",
+        "bag": "TM Psychic",
+        "name": "TM48"
+    },
+    {
+        "id": "337",
+        "hex": "0x0151",
+        "bag": "TM Dark",
+        "name": "TM49"
+    },
+    {
+        "id": "338",
+        "hex": "0x0152",
+        "bag": "TM Fire",
+        "name": "TM50"
+    },
+    {
+        "id": "339",
+        "hex": "0x0153",
+        "bag": "HM Normal",
+        "name": "HM01"
+    },
+    {
+        "id": "340",
+        "hex": "0x0154",
+        "bag": "HM Flying",
+        "name": "HM02"
+    },
+    {
+        "id": "341",
+        "hex": "0x0155",
+        "bag": "HM Water",
+        "name": "HM03"
+    },
+    {
+        "id": "342",
+        "hex": "0x0156",
+        "bag": "HM Normal",
+        "name": "HM04"
+    },
+    {
+        "id": "343",
+        "hex": "0x0157",
+        "bag": "HM Normal",
+        "name": "HM05"
+    },
+    {
+        "id": "344",
+        "hex": "0x0158",
+        "bag": "HM Fighting",
+        "name": "HM06"
+    },
+    {
+        "id": "345",
+        "hex": "0x0159",
+        "bag": "HM Water",
+        "name": "HM07"
+    },
+    {
+        "id": "346",
+        "hex": "0x015A",
+        "bag": "HM Water",
+        "name": "HM08"
+    },
+    {
+        "id": "347",
+        "hex": "0x015B",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "348",
+        "hex": "0x015C",
+        "bag": "unknown",
+        "name": "unknown"
+    },
+    {
+        "id": "349",
+        "hex": "0x015D",
+        "bag": "Parcel",
+        "name": "Oak's Parcel*"
+    },
+    {
+        "id": "350",
+        "hex": "0x015E",
+        "bag": "Pok\u00e9 Flute III",
+        "name": "Pok\u00e9 Flute*"
+    },
+    {
+        "id": "351",
+        "hex": "0x015F",
+        "bag": "Secret Key III",
+        "name": "Secret Key*"
+    },
+    {
+        "id": "352",
+        "hex": "0x0160",
+        "bag": "Bike Voucher",
+        "name": "Bike Voucher*"
+    },
+    {
+        "id": "353",
+        "hex": "0x0161",
+        "bag": "Gold Teeth III",
+        "name": "Gold Teeth*"
+    },
+    {
+        "id": "354",
+        "hex": "0x0162",
+        "bag": "Old Amber",
+        "name": "Old Amber*"
+    },
+    {
+        "id": "355",
+        "hex": "0x0163",
+        "bag": "Card Key III",
+        "name": "Card Key*"
+    },
+    {
+        "id": "356",
+        "hex": "0x0164",
+        "bag": "Lift Key III",
+        "name": "Lift Key*"
+    },
+    {
+        "id": "357",
+        "hex": "0x0165",
+        "bag": "Helix Fossil",
+        "name": "Helix Fossil*"
+    },
+    {
+        "id": "358",
+        "hex": "0x0166",
+        "bag": "Dome Fossil",
+        "name": "Dome Fossil*"
+    },
+    {
+        "id": "359",
+        "hex": "0x0167",
+        "bag": "Silph Scope III",
+        "name": "Silph Scope*"
+    },
+    {
+        "id": "360",
+        "hex": "0x0168",
+        "bag": "Bicycle",
+        "name": "Bicycle*"
+    },
+    {
+        "id": "361",
+        "hex": "0x0169",
+        "bag": "Town Map III",
+        "name": "Town Map*"
+    },
+    {
+        "id": "362",
+        "hex": "0x016A",
+        "bag": "Vs. Seeker",
+        "name": "VS Seeker*"
+    },
+    {
+        "id": "363",
+        "hex": "0x016B",
+        "bag": "Fame Checker",
+        "name": "Fame Checker*"
+    },
+    {
+        "id": "364",
+        "hex": "0x016C",
+        "bag": "TM Case",
+        "name": "TM Case*"
+    },
+    {
+        "id": "365",
+        "hex": "0x016D",
+        "bag": "Berry Pouch",
+        "name": "Berry Pouch*"
+    },
+    {
+        "id": "366",
+        "hex": "0x016E",
+        "bag": "Teachy TV",
+        "name": "Teachy TV*"
+    },
+    {
+        "id": "367",
+        "hex": "0x016F",
+        "bag": "Tri-Pass",
+        "name": "Tri-Pass*"
+    },
+    {
+        "id": "368",
+        "hex": "0x0170",
+        "bag": "Rainbow Pass",
+        "name": "Rainbow Pass*"
+    },
+    {
+        "id": "369",
+        "hex": "0x0171",
+        "bag": "Tea III",
+        "name": "Tea*"
+    },
+    {
+        "id": "370",
+        "hex": "0x0172",
+        "bag": "MysticTicket",
+        "name": "MysticTicket*"
+    },
+    {
+        "id": "371",
+        "hex": "0x0173",
+        "bag": "AuroraTicket",
+        "name": "AuroraTicket*"
+    },
+    {
+        "id": "372",
+        "hex": "0x0174",
+        "bag": "Powder Jar",
+        "name": "Powder Jar*"
+    },
+    {
+        "id": "373",
+        "hex": "0x0175",
+        "bag": "Ruby",
+        "name": "Ruby*"
+    },
+    {
+        "id": "374",
+        "hex": "0x0176",
+        "bag": "Sapphire",
+        "name": "Sapphire*"
+    }
+]

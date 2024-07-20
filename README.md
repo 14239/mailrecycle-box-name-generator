@@ -1,0 +1,2 @@
+# mailrecycle-box-name-generator
+ 
