@@ -27,8 +27,34 @@ input {
     background-color: #f0f0f0;
 }
 
-#result {
+#itemResult, #pokemonResult {
     margin-top: 20px;
     font-family: Consolas, "Courier New", monospace;
     white-space: pre-wrap; /* Preserve whitespace for multiline content */
+}
+
+.tabs {
+    overflow: hidden;
+    background-color: #f1f1f1;
+    margin-bottom: 20px;
+}
+
+.tablink {
+    background-color: inherit;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+.tablink:hover {
+    background-color: #ddd;
+}
+
+.tabcontent {
+    display: none;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-top: none;
 }

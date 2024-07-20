@@ -27,20 +27,20 @@ function showSuggestions(suggestions) {
     });
 }
 
-function generateCode() {
+function generateItemCode() {
     const itemName = document.getElementById('itemInput').value;
     const item = items.find(item => item.name === itemName);
 
     if (item) {
         const boxData = generateBoxCode(item.hex);
-        const resultDiv = document.getElementById('result');
+        const resultDiv = document.getElementById('itemResult');
         let resultHTML = `Item: ${itemName}<br><br>`;
         boxData.forEach(data => {
             resultHTML += `${data.boxName}: ${data.boxCode}<br><br>`;
         });
         resultDiv.innerHTML = resultHTML;
     } else {
-        document.getElementById('result').textContent = 'Item not found!';
+        document.getElementById('itemResult').textContent = 'Item not found!';
     }
 }
 
@@ -52,48 +52,20 @@ function generateBoxCode(hex) {
 
     const boxCodes = [];
 
-    // Box 1: (zFUnDRRn)
     boxCodes.push({ boxName: 'Box 1', boxCode: '(zFUnDRRn)' });
-
-    // Box 2: (……o/E!n[space])
     boxCodes.push({ boxName: 'Box 2', boxCode: '(……o/E!n[space])' });
 
-    // Box 3: (EE[space]…l*  )
-    let replacement = '[space]';
-    if (parseInt(hex, 16) === 65535) {
-        replacement = 'o';
-    } else if (parseInt(hex, 16) === 999) {
-        replacement = "'";
-    }
-    boxCodes.push({ boxName: 'Box 3', boxCode: `(EE[space]…l${replacement}[space][space])` });
-
-    // Box 4: (E♀BRm[space][space][space])
+    boxCodes.push({ boxName: 'Box 3', boxCode: `(EE[space]…l[lefty '][space][space])` });
     boxCodes.push({ boxName: 'Box 4', boxCode: '(E♀BRm[space][space][space])' });
-
-    // Box 5: (F……o[space][space])
     boxCodes.push({ boxName: 'Box 5', boxCode: `(${getCharacterForBox5(fourth)}……o[space][space])` });
-
-    // Box 6: (EEEJ*D!n[space])
     boxCodes.push({ boxName: 'Box 6', boxCode: `(EEE${getCharacterForBox6(third)}D!n[space])` });
-
-    // Box 7: (EE*B!n[space][space])
     let box7Replacement = getCharacterForValue(second, 'CDEF'.includes(third));
     boxCodes.push({ boxName: 'Box 7', boxCode: `(EE${box7Replacement}B!n[space][space])` });
-
-    // Box 8: (E*/!n[space][space][space])
     let box8Replacement = getCharacterForValue(first, 'DEF'.includes(second) || (second === 'C' && 'CDEF'.includes(third)));
     boxCodes.push({ boxName: 'Box 8', boxCode: `(E${box8Replacement}/!n[space][space][space])` });
-
-    // Box 9: ('BRm[space][space][space][space])
-    boxCodes.push({ boxName: 'Box 9', boxCode: "('BRm[space][space][space][space])" });
-
-    // Box 10: ([space][space][space][space][space]…oa)
+    boxCodes.push({ boxName: 'Box 9', boxCode: "([righty ']BRm[space][space][space][space])" });
     boxCodes.push({ boxName: 'Box 10', boxCode: '([space][space][space][space][space]…oa)' });
-
-    // Box 11: (…o[space][space][space][space][space][space])
     boxCodes.push({ boxName: 'Box 11', boxCode: '(…o[space][space][space][space][space][space])' });
-
-    // Box 12 onwards: Anything
     boxCodes.push({ boxName: 'Box 12+', boxCode: 'Anything' });
 
     return boxCodes;
@@ -187,3 +159,21 @@ function getCharacterForValue(value, isSpecialCondition) {
     const map = isSpecialCondition ? mapSpecial : mapNormal;
     return map[value.toUpperCase()] || 'F';
 }
+
+// Tab switching logic
+function openTab(evt, tabName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablink");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(tabName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+
+// Initial tab
+document.getElementsByClassName('tablink')[0].click();

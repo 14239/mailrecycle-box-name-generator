@@ -3,16 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pokemon Item Code Generator</title>
+    <title>Box Name Generator</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Pokemon Item Code Generator</h1>
-    <input type="text" id="itemInput" placeholder="Enter item name">
-    <div id="autocomplete-container"></div>
-    <button onclick="generateCode()">Generate Code</button>
-    <div id="result"></div>
+    <h1>Pokemon FRLG ACE Box Name Generator</h1>
+    
+    <!-- Tabs -->
+    <div class="tabs">
+        <button class="tablink" onclick="openTab(event, 'ItemTab')">Get Any Item</button>
+        <button class="tablink" onclick="openTab(event, 'PokemonTab')">Get Any Shiny Pokemon</button>
+    </div>
+
+    <!-- Tab content -->
+    <div id="ItemTab" class="tabcontent">
+        <input type="text" id="itemInput" placeholder="Enter item name">
+        <div id="autocomplete-container"></div>
+        <button onclick="generateItemCode()">Generate Code</button>
+        <div id="itemResult"></div>
+    </div>
+
+    <div id="PokemonTab" class="tabcontent">
+        <h6>this code will generate a Pokémon of any species (including glitch species) in its shiny form in Box 9, Slot 27</h6>
+        <input type="text" id="pokemonInput" placeholder="Enter Pokémon index (0000-FFFF)">
+        <button onclick="generatePokemonCode()">Generate Code</button>
+        <div id="pokemonResult"></div>
+    </div>
 
     <script src="script.js"></script>
+    <script src="pokemon.js"></script>
 </body>
 </html>
